@@ -8,6 +8,9 @@ Project 1
 ## Description 
 This wepage shows the beginner coding skills of Leslie Garcia, Benjamin Espino Lima, Carlee Miller, and Venus Rodin. Together, the wepage is interactive, has constructed CSS, has two server-side APIs, usese client side-storage to store persistent data, is responsive, and has a polished UI. On this webpage, a inspirational quote greets the user right away. Weather and daily events are displayed as well. 
 
+Repo link: https://github.com/lesliefg/Today
+Live Webpage Link: 
+
 ## Table of Contents
 1. Description
 2. Table of Contents
